@@ -158,7 +158,7 @@ public class Supermercado {
 		int    opc1, opc2;
 
 		do {
-			menu = "Controle PetStore\n" +
+			menu = "Controle Supermercado\n" +
 					"Opções:\n" + 
 					"1. Entrar Produto\n" +
 					"2. Exibir Produtos\n" +
